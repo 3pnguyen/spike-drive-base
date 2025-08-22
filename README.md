@@ -1,6 +1,11 @@
 # spike-drive-base
 
-## Python code for controlling a LEGO SPIKE Prime Robot. Future improvements are planned from the original. (first repository so please be nice)
+## Python code for advanced control over a LEGO SPIKE Prime Robot.
+
+#Future improvements are planned from the original. (first repository so please be nice)
+
+![Lego Sumo Robot](https://github.com/user-attachments/assets/ee1f8e5c-c7bc-49a2-9dbd-6699d1dd166d)
+![Lego Test Robot + (Older) Sumo Robot](https://github.com/user-attachments/assets/d53f9aa7-05b6-46a4-96b5-5b000232539d)
 
 ## ✨ More about the project
 
