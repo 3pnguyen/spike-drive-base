@@ -49,7 +49,7 @@ The reason I have this repository is to share my code for other people to use, (
 It wouldn't hurt to mention some of them:
 
 * The robot would jitter back in forth when doing a "gyro turn" near the targetted heading
-* Yeah nevermind there are no bugs besides that major one
+* The robot is easily affected by gyro drift. If you are using the code for a long enough time the code will become inaccurate. The only way to fix this right now is to reset the relative point for the gyro.
 
 ## 👀 Like the project so far?
 
