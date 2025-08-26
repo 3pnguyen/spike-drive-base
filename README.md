@@ -25,6 +25,10 @@ This is what the "base", originial version can do:
 
 The reason I have this repository is to share my code for other people to use, (as said earlier), log versions, and to also to improve the code, partly since how I coded back then was a little weird. Before the code ended up getting more complex and longer in Python, I really wanted compact the code as much as I could. This was because the SPIKE Prime IDE (Integrated Development Environment, just a fancy place to code) does not let you hide or "fold" code that you can ignore, which is a pain when trying to work on the code for the runs when you would have to scroll to it. It wasn't bad then, but it did get worse overtime. When my code got longer, it was more about making it clearer to read rather than saving a few more lines. (and the techniques I used back then were not the best, believe me)
 
+## ❗ Important
+
+For an improved version of the code, check out the "improved" branch. I highly recommend it if you want to use it. The reason why it is not apart of the main branch is because I have not tested it.
+
 ## ✅ How to use this for your robot:
 
 1. Download the llsp3 file for the code, whichever version you chooose
