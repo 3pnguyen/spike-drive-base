@@ -51,12 +51,6 @@ It wouldn't hurt to mention some of them:
 * The robot would jitter back in forth when doing a "gyro turn" near the targetted heading
 * The robot is easily affected by gyro drift. If you are using the code for a long enough time the code will become inaccurate. The only way to fix this right now is to reset the relative point for the gyro.
 
-## 👀 Like the project so far?
-
-* Regardless if you do or don't, I mean you're reading this right? And that's great, thanks!
-* Yeah I don't have a bank account yet so I can't really beg for money...
-* Please give me feedback it's suppppppeeeer import and a must for making this code the best!
-
 ## ✍️ About the author
 
 * I'm Ethan Nguyen and I created this hoping to help other people in FLL and Lego Robotics. I also wanted to improve my code, logging changes and fixing what the old version had bad or left out before
