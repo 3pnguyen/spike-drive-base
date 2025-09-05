@@ -2,10 +2,11 @@
 
 ## ❓ Info
 
-* This branch of the repository holds the updated version of the original code that is in the main branch. This version of the code will be way cleaner and more robust compared to the original version. If you want to use this code, I recommend that you use this version.
+* This branch of the repository holds the updated versions of the original code that is in the main branch. This version of the code will be way cleaner and more robust compared to the original version. If you want to use this code, I recommend that you use this version.
 * Using this code for yourself is the same process as for the original version.
 * Of course, future updates are still planned.
 * None of the versions have been tested so far, which is why there are multiple files for the same code. Each version is based off of the previous one, down to the original and tested version.
+* Some of the updated version may fix the bugs from the original version.
 
 ## 🛠️ Changes
 
