@@ -54,6 +54,7 @@ It wouldn't hurt to mention some of them:
 
 * The robot would jitter back in forth when doing a "gyro turn" near the targetted heading
 * The robot is easily affected by gyro drift. If you are using the code for a long enough time the code will become inaccurate. The only way to fix this right now is to reset the relative point for the gyro.
+* When using the sumo class and run method, the robot would sometimes retreat from the enemy even though there would be no reason to. For example, the robot may be in the middle of pushing the enemy, and then retreat for no reason!?
 
 ## ✍️ About the author
 
