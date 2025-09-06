@@ -55,6 +55,7 @@ It wouldn't hurt to mention some of them:
 * The robot would jitter back in forth when doing a "gyro turn" near the targetted heading
 * The robot is easily affected by gyro drift. If you are using the code for a long enough time the code will become inaccurate. The only way to fix this right now is to reset the relative point for the gyro.
 * When using the sumo class and run method, the robot would sometimes retreat from the enemy even though there would be no reason to. For example, the robot may be in the middle of pushing the enemy, and then retreat for no reason!?
+* When creating an instance of the two main classes, in the first and second argument, if you switched them around, the robot would work in reverse. (for example, if the first argument was port.A and the second port.B, (which are constants apart of the SPIKE environment) the robot would work correctly, but if you switched them around so it was port.B and port.A, the robot would not work as intended) Forward is backward and backward is forward, and probably at lot of other problems.
 
 ## ✍️ About the author
 
