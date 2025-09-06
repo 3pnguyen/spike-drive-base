@@ -2,7 +2,7 @@
 
 ## Python code for advanced control over a LEGO SPIKE Prime Robot.
 
-### Future improvements are planned from the original. (first repository so please be nice)
+### Future improvements are planned from the original.
 
 ![Lego Sumo Robot](https://github.com/user-attachments/assets/ee1f8e5c-c7bc-49a2-9dbd-6699d1dd166d)
 ![Lego Test Robot + (Older) Sumo Robot](https://github.com/user-attachments/assets/d53f9aa7-05b6-46a4-96b5-5b000232539d)
@@ -55,7 +55,7 @@ It wouldn't hurt to mention some of them:
 * The robot would jitter back in forth when doing a "gyro turn" near the targetted heading
 * The robot is easily affected by gyro drift. If you are using the code for a long enough time the code will become inaccurate. The only way to fix this right now is to reset the relative point for the gyro.
 * When using the sumo class and run method, the robot would sometimes retreat from the enemy even though there would be no reason to. For example, the robot may be in the middle of pushing the enemy, and then retreat for no reason!?
-* When creating an instance of the two main classes, in the first and second argument, if you switched them around, the robot would work in reverse. (for example, if the first argument was port.A and the second port.B, (which are constants apart of the SPIKE environment) the robot would work correctly, but if you switched them around so it was port.B and port.A, the robot would not work as intended) Forward is backward and backward is forward, and probably at lot of other problems.
+* When creating an instance of the two main classes, in the first and second argument, if you switched them around, the robot would work in reverse. (for example, if the first argument was port.A and the second port.B, (which are constants apart of the SPIKE environment) the robot would work correctly, but if you switched them around so it was port.B and port.A, the robot would not work as intended) Forward is backward and backward is forward, and probably a lot of other problems.
 
 ## ✍️ About the author
 
