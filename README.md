@@ -22,4 +22,9 @@
 * The code has decompressed a little more because I "missed a spot".
 * More documentation has been added to the code.
 
-### 3⃣ Update 3
+### 3️⃣ Update 3
+
+* The drive straight/straight method has an acceleration argument. You can override the straight method to have less/more acceleration when needed.
+* The drive straight/straight method uses a PID controller instead of a P controller.
+* The DriveAssist class now has nested classes for a moving median filter, PID controller, and P controller. Any code using any of those controllers and filters now uses those classes.
+* The moving median filter class comes with a check_stable_value method that returns a value if the value has enough frequency in the history list. The run method in the SumoAssist class uses this to make the state transitions more reliable. (hopefully)
