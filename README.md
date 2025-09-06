@@ -18,6 +18,8 @@
 ### 2️⃣ Update 2
 
 * The second class inherits the first class now, unlike how it used to be before. I didn't know about inheritance then, so this change fixes that. (The second class used to reference an instance to the first class, yuck)
-* Any nested functions have a "_" infront of them now.
+* Any nested functions have a "_" in front of them now.
 * The code has decompressed a little more because I "missed a spot".
 * More documentation has been added to the code.
+
+### 3⃣ Update 3
