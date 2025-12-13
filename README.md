@@ -37,12 +37,6 @@ For an improved version of the code, check out the "improved" branch. I highly r
 4. To actually use the code, you need to create an instance of the class "DriveAssist" which holds all of the methods or "SumoAssist" if you want to do sumo with your robot
 5. After creating your instance and having your reference, your good to use any of the methods that the class provides
 
-## 🤔 If you want contribute and help imporove the code:
-
-* Do the same steps above; downloading and using the code
-* Modify the code however you improve it
-* Send it over here!
-
 ## 🪰 Did someone say bug?
 
 * There have been tons of bugs with this code on the past and I am not 100% sure if there are bugs that still linger.
