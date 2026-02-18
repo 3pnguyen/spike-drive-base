@@ -37,21 +37,9 @@ For an improved version of the code, check out the "improved" branch. I highly r
 
 ## 🪰 Did someone say bug?
 
-* There have been tons of bugs with this code on the past and I am not 100% sure if there are bugs that still linger.
-* If there is a bug, please sumbit it as an issue or however you do it. If you got an improvement to that bug, it would be great if you could send it over! (and don't forget to mention what bug it was)
-
-## 👂 Speaking of "tons of bugs with this code on the past" and "bugs that still linger"...
-
 It wouldn't hurt to mention some of them:
 
 * The robot would jitter back in forth when doing a "gyro turn" near the targetted heading
 * The robot is easily affected by gyro drift. If you are using the code for a long enough time the code will become inaccurate. The only way to fix this right now is to reset the relative point for the gyro.
 * When using the sumo class and run method, the robot would sometimes retreat from the enemy even though there would be no reason to. For example, the robot may be in the middle of pushing the enemy, and then retreat for no reason!?
 * When creating an instance of the two main classes, in the first and second argument, if you switched them around, the robot would work in reverse. (for example, if the first argument was port.A and the second port.B, (which are constants apart of the SPIKE environment) the robot would work correctly, but if you switched them around so it was port.B and port.A, the robot would not work as intended) Forward is backward and backward is forward, and probably a lot of other problems.
-
-## ✍️ About the author
-
-* I'm Ethan Nguyen and I created this hoping to help other people in FLL and Lego Robotics. I also wanted to improve my code, logging changes and fixing what the old version had bad or left out before
-* My doing for all this roots to my passion for my robotics. Honestly, it's cool where it can get you in today's technology world
-* When I was competeing in FLL with my team, I was one of the main coders, my other teamates worked on the FLL board and I was more in the back trying to innovate. We were the first team in our school district and our school to reach the finals of the competition. We didn't win anything but we still did pretty good. (22th place...) I mean, we won at least one trophy during qualifiers and reigionals. After FLL we did spring showdown (another LEGO robotics competition) and we placed top 10 in the first part and top 3 or 5 in the second part. Of course, I'm not a one man show and my team has contributed a lot. Thanks team!
-* The LEGO robots at the top were designed by me and were used in spring showdown (one that was in the competition, and one that was for testing before the code was used on the main robot. The reason why the main robot does not look suited for spring showdown in the photo of it with the test robot was because it was after spring showdown and we were transitioning into sumo. I don't have many picures of the robots. The other picture was the final form of the sumo-ready robot that would win at the bracket for our local competition! My team helped design the black crowning so shoutout to them again!)
