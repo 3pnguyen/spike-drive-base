@@ -2,6 +2,8 @@
 
 ## Python code for advanced control over a LEGO SPIKE Prime Robot.
 
+![MicroPython](https://img.shields.io/badge/micropython-%232B2728.svg?style=for-the-badge&logo=micropython&logoColor=white)
+
 ![Lego Sumo Robot](https://github.com/user-attachments/assets/ee1f8e5c-c7bc-49a2-9dbd-6699d1dd166d)
 ![Lego Test Robot + (Older) Sumo Robot](https://github.com/user-attachments/assets/d53f9aa7-05b6-46a4-96b5-5b000232539d)
 
